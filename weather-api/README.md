@@ -23,8 +23,8 @@ http://localhost:3000/api/weather/city/london
 ## Setup
 
 ```
-git clone https://code.siemens.com/coe-cloud-technology/ai_ml/ai/apiservices/weather-api.git
-cd weather-api
+git clone https://github.com/ai-srp/api-services.git
+cd api-services/weather-api
 npm install
 npm start
 ```
